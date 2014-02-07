@@ -1,6 +1,5 @@
 # One month Rails
 
-This is the pinteresting sample application for 
-[*One Month Rails*](http://onemonthrails.com)
+This is my second round of changes to practice pushing changes to [*Github*](http://github.com)
 
 By Dan Rogers
