@@ -13,7 +13,6 @@ gem 'bootstrap-sass', '~> 3.1.0'
 gem 'devise', '~> 3.2.2'
 gem 'paperclip', '~>3.0'
 gem 'aws-sdk', '~> 1.16.1'
-gem "aws-s3", '~> 0.6.0'
 gem 'masonry-rails', '~>0.2.0'
 
 
